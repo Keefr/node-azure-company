@@ -45,7 +45,7 @@ This walkthrough contains all the steps you should follow to fork this repo and 
 
 ## App Info
 
-### Author
+### Original Author
 
 Mike Pfeiffer
 [@mike_pfeiffer](https://twitter.com/mike_pfeiffer)
